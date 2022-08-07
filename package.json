@@ -1,0 +1,11 @@
+{
+  "name": "cryptip-erc-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.2",
+    "@truffle/hdwallet-provider": "^2.0.13",
+    "truffle-flatten": "^1.0.8"
+  }
+}
